@@ -123,6 +123,9 @@ final_showcase.py
 project_summary.py
 GIT_CHECKLIST.md
 demo.py
+LEARNING_GUIDE.md
+DEPLOYMENT.md
+CopilotInstructions.md
 
 # VS Code workspace settings
 .vscode/
