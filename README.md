@@ -7,6 +7,8 @@
 **LinkedIn:** [https://www.linkedin.com/in/fares-chehidi](https://www.linkedin.com/in/fares-chehidi)  
 **GitHub:** [https://github.com/FCHEHIDI](https://github.com/FCHEHIDI)
 
+![APIs-Development-with-FastAPI](backendengineer.png)
+
 ## 🎯 Project Overview
 
 This FastAPI application serves as a complete backend solution for user management and content publishing, featuring JWT authentication, CRUD operations, and comprehensive security measures. It's designed to demonstrate proficiency in backend development for potential employers and serves as a template for production applications.
